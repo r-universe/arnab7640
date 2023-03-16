@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GmptzCurve"]
+	path = GmptzCurve
+	url = https://github.com/arnab7640/gmptzcurve
+	shallow = true
+	registered = true
+[submodule "MissingPlotRBD"]
+	path = MissingPlotRBD
+	url = https://github.com/arnab7640/missingplotrbd
+	shallow = true
+	registered = true

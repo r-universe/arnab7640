@@ -1,0 +1,10 @@
+[
+  {
+    "package": "GmptzCurve",
+    "oncran": true
+  },
+  {
+    "package": "MissingPlotRBD",
+    "oncran": true
+  }
+]
